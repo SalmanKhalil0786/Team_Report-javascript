@@ -1,0 +1,39 @@
+.login_page
+{
+    background-image:url(./image/1.jpg);
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.home_page
+{
+    background-image:url(./image/4.jpg);
+    background-position:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.set_page
+{
+    background-image:url(./image/8.jpg);
+    background-position:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sign_page
+{
+    background-image:url(./image/signup.jpg);
+    background-position:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.button-class{
+    margin-top: 40%;
+    margin-left: 90%;
+    /* display: inline-flex; */
+    position: relative;
+    border-radius: 10%;
+}
